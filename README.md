@@ -1,14 +1,14 @@
 # Global Metabolic Health & Insulin Resistance Analysis
 
 ## Overview
-This end-to-end data analysis project investigates global metabolic health trends, focusing on insulin resistance and market-relevant patient metrics[cite: 2]. By processing a global dataset of over 188K patients, this project establishes a scalable data pipeline to identify high-risk demographic segments and track medical KPIs across different countries[cite: 2].
+This end-to-end data analysis project investigates global metabolic health trends, focusing on insulin resistance and market-relevant patient metrics. By processing a global dataset of over 188K patients, this project establishes a scalable data pipeline to identify high-risk demographic segments and track medical KPIs across different countries.
 
 ---
 
 ## Data Pipeline & Key Learnings
 
 ### 1. Data Cleaning & Pipeline Integrity (Python & SQL)
-*   **What I Did:** Cleaned, validated, and processed a raw global dataset of over 188K patients[cite: 2]. Maintained both raw and cleaned datasets to explicitly demonstrate data transformation steps, handling missing fields, and anomalies via Python notebooks and SQL queries.
+*   **What I Did:** Cleaned, validated, and processed a raw global dataset of over 188K patients. Maintained both raw and cleaned datasets to explicitly demonstrate data transformation steps, handling missing fields, and anomalies via Python notebooks and SQL queries.
 *   **The Value & Benefit:** Medical and metabolic data requires absolute precision. Preserving the raw data alongside the optimized, clean dataset proves the reliability of the entire data pipeline. This setup ensures that subsequent medical KPI calculations are completely free from analytical bias or structural errors.
 
 ### 2. Metric Calculation & Relational Modeling (SQL)
