@@ -1,7 +1,7 @@
 # Global Metabolic Health & Insulin Resistance Analysis
 
 ## Overview
-This end-to-end data analysis project investigates global metabolic health trends, focusing on insulin resistance and market-relevant patient metrics[cite: 2]. By processing a global dataset of over 188K patients[cite: 2], this project establishes a scalable data pipeline to identify high-risk demographic segments and track medical KPIs across different countries[cite: 2].
+This end-to-end data analysis project investigates global metabolic health trends, focusing on insulin resistance and market-relevant patient metrics[cite: 2]. By processing a global dataset of over 188K patients, this project establishes a scalable data pipeline to identify high-risk demographic segments and track medical KPIs across different countries[cite: 2].
 
 ---
 
